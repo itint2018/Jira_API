@@ -4,9 +4,7 @@
 # Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
 from jira import JIRA
 
-loginJira = 'ivsnew@mail.ru'
-passJira = 'bujhm212'
-tokenJira = 'ArE9KsDPl4VihdtYfpt0287D'
+
 
 def initJira():
     jira_options = {'server': 'https://open-genes.atlassian.net'}
